@@ -1,4 +1,4 @@
-# Burger Menu Management System
+# Burger Restaurant Menu Management System
 ![Main Menu](resources/main_menu.png)
 #### By Ankit AKash Kalita
 #### Video Overview: https://youtu.be/z8ua2PS3Wrc?si=vrQoDaVGe9L_Voud  
@@ -60,11 +60,11 @@ To get started, first clone or download this repository to your local machine.
 #### To clone the repository using Git, run the following command in your terminal or CLI:
 
 ```
-git clone <repository-url>
+git clone https://github.com/ankito090/Burger-Restaurant-Menu-Management-System.git
 ```
 **or**
 
-#### [Download the Repository]()
+#### [Download the Repository](https://codeload.github.com/ankito090/Burger-Restaurant-Menu-Management-System/zip/refs/heads/main)
 
 ###  **Set Up Your Environment** 
 
