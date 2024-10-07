@@ -114,6 +114,7 @@ python project.py
 ```
 Once the command is successfully executed, the terminal will show an output like this:
 ![Run the program](resources/run_the_program.png)
+Enjoy exploring the features of the program!
 
 ### Run the test file
 
