@@ -1,5 +1,5 @@
 # Burger Menu Management System
-![Main Menu](main_menu.png)
+![Main Menu](resources/main_menu.png)
 #### By Ankit AKash Kalita
 #### Video Overview: https://youtu.be/z8ua2PS3Wrc?si=vrQoDaVGe9L_Voud  
 
