@@ -112,7 +112,8 @@ This command will install all required dependencies.
 ```
 python project.py
 ```
-This will start the program in your terminal, allowing you to interact with the program
+Once the command is successfully executed, the terminal will show an output like this:
+![Run the program](resources/run_the_program.png)
 
 ### Run the test file
 
